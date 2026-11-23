@@ -70,8 +70,4 @@ This repository contains the Power BI report file. The exact source-system detai
 ### 👤 Author
 
 **Akhilesh Mishra**
-"""
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
