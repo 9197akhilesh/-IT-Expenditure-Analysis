@@ -2,7 +2,7 @@
 Developed an interactive Power BI dashboard to analyze IT expenditure across business units, regions, and cost categories. Compared actual, forecast, and planned spending to identify budget variances, overspending, and cost-saving opportunities, enabling data-driven financial decisions.
 from pathlib import Path
 
-readme = """# 💻 IT Expenditure Analysis | Power BI
+readme =  💻 IT Expenditure Analysis | Power BI
 
 > **Turning IT spending data into clearer financial decisions.**
 
